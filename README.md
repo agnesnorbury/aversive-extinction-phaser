@@ -3,8 +3,7 @@
 Repository with code for two versions of an online extinction learning task, built using [phaser3](https://phaser.io/).
 
 Version 1 (space theme):
-![demo-1](./task1.gif)
-
+<img src="./task1.gif" width="50%" height="50%"/>
 
 Version 2 (underwater theme):
-![demo-2](./task2.gif)
+<img src="./task2.gif" width="50%" height="50%"/>
