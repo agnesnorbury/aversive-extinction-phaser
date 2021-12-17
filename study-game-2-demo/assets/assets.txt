@@ -1,0 +1,32 @@
+Game art was developed using assets in the public domain, sourced from  https://opengameart.org/ and pixabay.com
+
+Please see below for specific licensing information.
+
+Scuba diver sprite
+Source: https://opengameart.org/content/scuba-diver
+License: CC-BY 4.0
+
+Underwater background art
+Source: https://opengameart.org/content/underwater-background-1
+License: CC-BY 3.0
+
+Underwater background art 2
+Source: https://opengameart.org/content/underwater-world-parallax-backgrounds
+License: OGA-BY 3.0
+
+Clam with pearl sprite:
+Source: https://opengameart.org/content/shell-1
+CC-BY 3.0
+
+Crab sprite:
+Source: https://opengameart.org/content/crab
+License: CC0
+
+Ocean background image:
+Source: https://pixabay.com/illustrations/underwater-sea-ocean-plankton-blue-2615376/
+License: pixabay license
+
+Beach image:
+Source: https://pixabay.com/illustrations/paradise-painting-beach-vacation-1110498/
+License: pixabay license
+
